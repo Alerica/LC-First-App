@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
-public class MainScene : MonoBehaviour
+public class EndingScene : MonoBehaviour
 {
     public void ToMainMenu() 
     {

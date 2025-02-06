@@ -7,4 +7,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("Main Scene");
     }
+
+    public void ToEndingScene()
+    {
+        SceneManager.LoadSceneAsync("Ending Scene");
+    }
 }
